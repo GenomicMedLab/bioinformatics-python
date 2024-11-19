@@ -22,7 +22,7 @@ Once these commands are complete, run:
 curl https://pyenv.run | bash
 ```
 
-and
+### Configure environment variables
 
 ```shell
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
