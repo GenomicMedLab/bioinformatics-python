@@ -2,6 +2,12 @@
 
 This repo contains exercises for the CSHL 2024 Seqtec course
 
+Clone the repo:
+
+```shell
+git clone https://github.com/GenomicMedLab/bioinformatics-python.git
+```
+
 ## Installing `pyenv`
 
 Run the following prerequisite commands in ubuntu:
