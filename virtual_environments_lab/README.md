@@ -3,7 +3,7 @@
 Run the following command in the terminal to list the number of installed packages: `pip list`.
 How many packages do you see installed?
 
-We're now going to create a virtual environment, activate it, and load it's contents:
+We're now going to create a virtual environment, activate it, and load its contents:
 
 ```shell
 python3 -m venv venv
