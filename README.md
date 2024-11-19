@@ -16,7 +16,7 @@ Please place the VCF file (`Exome_Norm_HC_calls.filtered.vcf.gz`) in the `data` 
 
 ## Installing `pyenv`
 
-Run the following commands to install pysam:
+Run the following commands to install `pyenv`:
 
 ```shell
 sudo apt update; sudo apt install build-essential libssl-dev zlib1g-dev \
