@@ -1,6 +1,7 @@
-# bioinformatics-python
+# Bioinformatics with Python
 
-This repo contains exercises for the CSHL 2024 Seqtec course
+Exercises for the "Bioinformatics with Python" module at the 2024 Advanced Sequencing 
+Technologies and Applications course at Cold Spring Harbor Laboratories.
 
 ## Installation
 
