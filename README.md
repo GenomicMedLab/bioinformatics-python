@@ -2,15 +2,19 @@
 
 This repo contains exercises for the CSHL 2024 Seqtec course
 
-## Installing `pyenv`
+## Installation
 
-Run the following prerequisite commands in ubuntu:
+### Installation Prerequisites
+
+Install prerequisite software using the following commands in ubuntu:
 
 ```shell
 sudo apt update; sudo apt install build-essential libssl-dev zlib1g-dev \
 libbz2-dev libreadline-dev libsqlite3-dev curl git \
 libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
 ```
+
+### Install `pyenv`
 
 Once these commands are complete, run:
 
